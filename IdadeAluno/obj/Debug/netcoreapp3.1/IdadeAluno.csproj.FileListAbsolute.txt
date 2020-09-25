@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\bin\Debug\netcoreapp3.1\IdadeAluno.exe
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\bin\Debug\netcoreapp3.1\IdadeAluno.deps.json
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\bin\Debug\netcoreapp3.1\IdadeAluno.runtimeconfig.json
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\bin\Debug\netcoreapp3.1\IdadeAluno.runtimeconfig.dev.json
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\bin\Debug\netcoreapp3.1\IdadeAluno.dll
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\bin\Debug\netcoreapp3.1\IdadeAluno.pdb
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\obj\Debug\netcoreapp3.1\IdadeAluno.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\obj\Debug\netcoreapp3.1\IdadeAluno.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\obj\Debug\netcoreapp3.1\IdadeAluno.AssemblyInfo.cs
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\obj\Debug\netcoreapp3.1\IdadeAluno.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\obj\Debug\netcoreapp3.1\IdadeAluno.dll
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\obj\Debug\netcoreapp3.1\IdadeAluno.pdb
+C:\Users\Max\Desktop\IdadeAluno\IdadeAluno\obj\Debug\netcoreapp3.1\IdadeAluno.genruntimeconfig.cache
